@@ -50,6 +50,18 @@ A simple and clean task management REST API built with **NestJS**, **PostgreSQL*
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## 📫 API Endpoints
+
+| Method | Endpoint     | Description         |
+|--------|--------------|---------------------|
+| GET    | `/tasks`     | Get all tasks       |
+| GET    | `/tasks/:id` | Get task by ID      |
+| POST   | `/tasks`     | Create a new task   |
+| PUT    | `/tasks/:id` | Update task by ID   |
+| DELETE | `/tasks/:id` | Delete task by ID   |
+
+
+
 ## Project setup
 
 ```bash

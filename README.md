@@ -46,8 +46,6 @@ A simple and clean task management REST API built with **NestJS**, **PostgreSQL*
 
 ---
 
-# 📝 claude guide:https://claude.ai/share/eccf64ab-10d8-42e7-8e8f-4094673af5a0
-
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## 📫 API Endpoints
@@ -133,3 +131,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+### 📝 claude guide:https://claude.ai/share/eccf64ab-10d8-42e7-8e8f-4094673af5a0
+

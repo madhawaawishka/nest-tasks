@@ -21,7 +21,32 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+# 📝 Task Manager API
+
+A simple and clean task management REST API built with **NestJS**, **PostgreSQL**, and **Prisma ORM**. This backend application supports basic CRUD operations for tasks — perfect for learning or bootstrapping a more advanced task-tracking system.
+
+---
+
+## 🚀 Features
+
+- ✅ Create, Read, Update, and Delete tasks
+- ⚙️ Built with **NestJS** (modular architecture)
+- 🗃️ Uses **Prisma ORM** for database access
+- 🐘 Backed by **PostgreSQL**
+- 🧪 Ready for extension and integration
+
+---
+
+## 📦 Tech Stack
+
+- [NestJS](https://nestjs.com/) — Progressive Node.js framework
+- [Prisma](https://www.prisma.io/) — Type-safe ORM
+- [PostgreSQL](https://www.postgresql.org/) — Relational database
+- [TypeScript](https://www.typescriptlang.org/) — Strongly typed JS
+
+---
+
+# 📝 claude guide:https://claude.ai/share/eccf64ab-10d8-42e7-8e8f-4094673af5a0
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
